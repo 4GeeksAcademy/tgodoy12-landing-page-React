@@ -10,7 +10,7 @@ const Home = () => {
 		<div>
 			<Navbar/>
 
-			<div className="container-xl">
+			<div className="container">
 				<Jumbotron/>
 				
 				<div className="row d-flex justify-content-center">
