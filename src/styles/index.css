@@ -10,3 +10,8 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.card {
+    padding: 0;
+    width: 320px;
+    margin: 3px 3px;
+}
